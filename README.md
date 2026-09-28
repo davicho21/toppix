@@ -2,6 +2,8 @@
 
 Sitio de la tienda de donas Toppix con un configurador interactivo "Crea tu dona" (Next.js + Tailwind CSS).
 
+**Sitio en vivo:** https://toppix-dvv821.vercel.app/
+
 ## Desarrollo
 
 ```bash
